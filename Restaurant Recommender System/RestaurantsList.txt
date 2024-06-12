@@ -1,0 +1,1650 @@
+Resaurant #1
+Karachi, Street #1
+Cuisine #1
+4.2
+2
+7.9
+3
+Yes
+No
+25
+---------------------------
+Resaurant #2
+Karachi, Street #2
+Cuisine #2
+0.9
+3
+2.8
+2
+No
+No
+82
+---------------------------
+Resaurant #3
+Karachi, Street #3
+Cuisine #3
+1.2
+2
+19.2
+3
+Yes
+No
+37
+---------------------------
+Resaurant #4
+Karachi, Street #4
+Cuisine #4
+0.5
+1
+11.7
+3
+Yes
+Yes
+22
+---------------------------
+Resaurant #5
+Karachi, Street #5
+Cuisine #5
+1.9
+3
+7
+3
+Yes
+No
+39
+---------------------------
+Resaurant #6
+Karachi, Street #1
+Cuisine #1
+1.3
+2
+1.2
+3
+No
+Yes
+4
+---------------------------
+Resaurant #7
+Karachi, Street #2
+Cuisine #2
+2.3
+1
+5.4
+1
+Yes
+No
+12
+---------------------------
+Resaurant #8
+Karachi, Street #3
+Cuisine #3
+1.9
+3
+6
+3
+Yes
+No
+38
+---------------------------
+Resaurant #9
+Karachi, Street #4
+Cuisine #4
+2.4
+2
+19.1
+1
+Yes
+Yes
+36
+---------------------------
+Resaurant #10
+Karachi, Street #5
+Cuisine #5
+4.3
+2
+4.9
+1
+Yes
+Yes
+65
+---------------------------
+Resaurant #11
+Karachi, Street #1
+Cuisine #1
+4.7
+3
+0.7
+1
+No
+Yes
+51
+---------------------------
+Resaurant #12
+Karachi, Street #2
+Cuisine #2
+0.2
+3
+15.5
+1
+No
+No
+85
+---------------------------
+Resaurant #13
+Karachi, Street #3
+Cuisine #3
+0.7
+2
+14.5
+3
+Yes
+No
+9
+---------------------------
+Resaurant #14
+Karachi, Street #4
+Cuisine #4
+4
+2
+8.3
+3
+No
+Yes
+19
+---------------------------
+Resaurant #15
+Karachi, Street #5
+Cuisine #5
+3
+1
+10.5
+3
+No
+No
+59
+---------------------------
+Resaurant #16
+Karachi, Street #1
+Cuisine #1
+3.1
+3
+14.6
+1
+No
+Yes
+22
+---------------------------
+Resaurant #17
+Karachi, Street #2
+Cuisine #2
+2.5
+1
+9.8
+2
+No
+No
+74
+---------------------------
+Resaurant #18
+Karachi, Street #3
+Cuisine #3
+1.3
+1
+16.8
+2
+No
+Yes
+56
+---------------------------
+Resaurant #19
+Karachi, Street #4
+Cuisine #4
+0.6
+3
+14.2
+2
+Yes
+Yes
+51
+---------------------------
+Resaurant #20
+Karachi, Street #5
+Cuisine #5
+2.5
+2
+13.8
+2
+No
+No
+8
+---------------------------
+Resaurant #21
+Karachi, Street #1
+Cuisine #1
+0.8
+1
+1
+3
+No
+No
+10
+---------------------------
+Resaurant #22
+Karachi, Street #2
+Cuisine #2
+0.9
+1
+3.1
+3
+Yes
+Yes
+7
+---------------------------
+Resaurant #23
+Karachi, Street #3
+Cuisine #3
+1.4
+1
+1.1
+3
+No
+Yes
+56
+---------------------------
+Resaurant #24
+Karachi, Street #4
+Cuisine #4
+1
+3
+4.2
+1
+Yes
+No
+96
+---------------------------
+Resaurant #25
+Karachi, Street #5
+Cuisine #5
+0.3
+2
+19.7
+3
+Yes
+Yes
+21
+---------------------------
+Resaurant #26
+Karachi, Street #1
+Cuisine #1
+2.2
+1
+13.5
+1
+Yes
+Yes
+82
+---------------------------
+Resaurant #27
+Karachi, Street #2
+Cuisine #2
+0.4
+1
+12.8
+2
+Yes
+Yes
+89
+---------------------------
+Resaurant #28
+Karachi, Street #3
+Cuisine #3
+1.8
+2
+2.2
+3
+Yes
+No
+8
+---------------------------
+Resaurant #29
+Karachi, Street #4
+Cuisine #4
+1.1
+2
+13.6
+3
+Yes
+No
+17
+---------------------------
+Resaurant #30
+Karachi, Street #5
+Cuisine #5
+0.2
+3
+10.4
+3
+No
+Yes
+99
+---------------------------
+Resaurant #31
+Karachi, Street #1
+Cuisine #1
+2.5
+1
+19.6
+2
+No
+No
+3
+---------------------------
+Resaurant #32
+Karachi, Street #2
+Cuisine #2
+3.6
+1
+10.4
+1
+No
+No
+15
+---------------------------
+Resaurant #33
+Karachi, Street #3
+Cuisine #3
+4.9
+1
+19.9
+1
+Yes
+Yes
+97
+---------------------------
+Resaurant #34
+Karachi, Street #4
+Cuisine #4
+3.2
+3
+2.3
+3
+No
+No
+73
+---------------------------
+Resaurant #35
+Karachi, Street #5
+Cuisine #5
+3.9
+3
+15.9
+2
+No
+Yes
+58
+---------------------------
+Resaurant #36
+Karachi, Street #1
+Cuisine #1
+4.2
+2
+3.5
+1
+Yes
+No
+3
+---------------------------
+Resaurant #37
+Karachi, Street #2
+Cuisine #2
+2.3
+1
+7.6
+1
+Yes
+Yes
+87
+---------------------------
+Resaurant #38
+Karachi, Street #3
+Cuisine #3
+3.4
+1
+19.9
+2
+Yes
+Yes
+82
+---------------------------
+Resaurant #39
+Karachi, Street #4
+Cuisine #4
+2.3
+2
+9.3
+1
+No
+No
+77
+---------------------------
+Resaurant #40
+Karachi, Street #5
+Cuisine #5
+4
+3
+7
+3
+Yes
+Yes
+4
+---------------------------
+Resaurant #41
+Karachi, Street #1
+Cuisine #1
+1.2
+1
+0.3
+1
+No
+No
+24
+---------------------------
+Resaurant #42
+Karachi, Street #2
+Cuisine #2
+3.6
+2
+15.8
+3
+Yes
+Yes
+18
+---------------------------
+Resaurant #43
+Karachi, Street #3
+Cuisine #3
+3.3
+3
+17.7
+3
+Yes
+No
+90
+---------------------------
+Resaurant #44
+Karachi, Street #4
+Cuisine #4
+3
+1
+15
+2
+No
+No
+35
+---------------------------
+Resaurant #45
+Karachi, Street #5
+Cuisine #5
+4.2
+2
+14
+3
+Yes
+Yes
+54
+---------------------------
+Resaurant #46
+Karachi, Street #1
+Cuisine #1
+2.4
+2
+3.8
+2
+No
+No
+50
+---------------------------
+Resaurant #47
+Karachi, Street #2
+Cuisine #2
+1.7
+2
+8.7
+2
+No
+No
+17
+---------------------------
+Resaurant #48
+Karachi, Street #3
+Cuisine #3
+0.6
+2
+10.2
+3
+No
+Yes
+15
+---------------------------
+Resaurant #49
+Karachi, Street #4
+Cuisine #4
+1.7
+3
+18.6
+2
+No
+No
+56
+---------------------------
+Resaurant #50
+Karachi, Street #5
+Cuisine #5
+0.4
+3
+15.7
+1
+Yes
+No
+14
+---------------------------
+Resaurant #51
+Karachi, Street #1
+Cuisine #1
+2.2
+1
+19.7
+2
+Yes
+No
+45
+---------------------------
+Resaurant #52
+Karachi, Street #2
+Cuisine #2
+2.3
+2
+6.7
+2
+No
+Yes
+74
+---------------------------
+Resaurant #53
+Karachi, Street #3
+Cuisine #3
+4.5
+1
+15.5
+3
+No
+No
+25
+---------------------------
+Resaurant #54
+Karachi, Street #4
+Cuisine #4
+1.1
+1
+2.3
+3
+Yes
+No
+75
+---------------------------
+Resaurant #55
+Karachi, Street #5
+Cuisine #5
+1.9
+2
+0.3
+3
+No
+Yes
+92
+---------------------------
+Resaurant #56
+Karachi, Street #1
+Cuisine #1
+2.6
+2
+7.5
+3
+Yes
+Yes
+35
+---------------------------
+Resaurant #57
+Karachi, Street #2
+Cuisine #2
+2.3
+2
+11.9
+3
+Yes
+No
+98
+---------------------------
+Resaurant #58
+Karachi, Street #3
+Cuisine #3
+2.8
+3
+18.6
+2
+No
+Yes
+93
+---------------------------
+Resaurant #59
+Karachi, Street #4
+Cuisine #4
+0.3
+3
+12.8
+3
+No
+Yes
+100
+---------------------------
+Resaurant #60
+Karachi, Street #5
+Cuisine #5
+2.6
+2
+18.2
+2
+No
+Yes
+62
+---------------------------
+Resaurant #61
+Karachi, Street #1
+Cuisine #1
+0.4
+1
+9.3
+1
+No
+No
+32
+---------------------------
+Resaurant #62
+Karachi, Street #2
+Cuisine #2
+4.3
+3
+16.1
+3
+Yes
+Yes
+88
+---------------------------
+Resaurant #63
+Karachi, Street #3
+Cuisine #3
+1.4
+3
+11.2
+3
+Yes
+No
+34
+---------------------------
+Resaurant #64
+Karachi, Street #4
+Cuisine #4
+1.1
+3
+9.5
+3
+No
+Yes
+41
+---------------------------
+Resaurant #65
+Karachi, Street #5
+Cuisine #5
+4.6
+3
+5.9
+1
+No
+Yes
+95
+---------------------------
+Resaurant #66
+Karachi, Street #1
+Cuisine #1
+0.3
+3
+8.5
+2
+Yes
+No
+52
+---------------------------
+Resaurant #67
+Karachi, Street #2
+Cuisine #2
+1.9
+3
+6.1
+1
+Yes
+Yes
+88
+---------------------------
+Resaurant #68
+Karachi, Street #3
+Cuisine #3
+2.7
+3
+2.8
+2
+Yes
+No
+77
+---------------------------
+Resaurant #69
+Karachi, Street #4
+Cuisine #4
+4.4
+1
+16.6
+1
+No
+Yes
+87
+---------------------------
+Resaurant #70
+Karachi, Street #5
+Cuisine #5
+3.8
+3
+12.9
+1
+No
+No
+30
+---------------------------
+Resaurant #71
+Karachi, Street #1
+Cuisine #1
+2.4
+3
+13.8
+3
+Yes
+No
+97
+---------------------------
+Resaurant #72
+Karachi, Street #2
+Cuisine #2
+1.2
+3
+11.7
+2
+Yes
+Yes
+3
+---------------------------
+Resaurant #73
+Karachi, Street #3
+Cuisine #3
+3.1
+2
+15.4
+2
+No
+No
+48
+---------------------------
+Resaurant #74
+Karachi, Street #4
+Cuisine #4
+2.1
+3
+5.2
+1
+Yes
+No
+41
+---------------------------
+Resaurant #75
+Karachi, Street #5
+Cuisine #5
+1.3
+1
+16.6
+3
+No
+Yes
+79
+---------------------------
+Resaurant #76
+Karachi, Street #1
+Cuisine #1
+0.8
+1
+16.1
+3
+Yes
+No
+4
+---------------------------
+Resaurant #77
+Karachi, Street #2
+Cuisine #2
+0.8
+1
+0.2
+3
+Yes
+No
+88
+---------------------------
+Resaurant #78
+Karachi, Street #3
+Cuisine #3
+0.1
+1
+14.1
+1
+No
+Yes
+6
+---------------------------
+Resaurant #79
+Karachi, Street #4
+Cuisine #4
+1.2
+2
+2.4
+1
+Yes
+Yes
+51
+---------------------------
+Resaurant #80
+Karachi, Street #5
+Cuisine #5
+3.6
+3
+15.8
+1
+Yes
+No
+27
+---------------------------
+Resaurant #81
+Karachi, Street #1
+Cuisine #1
+3.8
+2
+1.8
+1
+No
+Yes
+23
+---------------------------
+Resaurant #82
+Karachi, Street #2
+Cuisine #2
+1.3
+1
+13
+1
+No
+No
+24
+---------------------------
+Resaurant #83
+Karachi, Street #3
+Cuisine #3
+3
+2
+5.4
+3
+Yes
+Yes
+56
+---------------------------
+Resaurant #84
+Karachi, Street #4
+Cuisine #4
+1.3
+2
+17
+3
+Yes
+Yes
+58
+---------------------------
+Resaurant #85
+Karachi, Street #5
+Cuisine #5
+3.3
+1
+6.8
+3
+No
+No
+36
+---------------------------
+Resaurant #86
+Karachi, Street #1
+Cuisine #1
+4.9
+3
+11.2
+2
+No
+Yes
+55
+---------------------------
+Resaurant #87
+Karachi, Street #2
+Cuisine #2
+4.2
+1
+2.7
+1
+No
+No
+71
+---------------------------
+Resaurant #88
+Karachi, Street #3
+Cuisine #3
+3.5
+2
+10.2
+2
+Yes
+Yes
+80
+---------------------------
+Resaurant #89
+Karachi, Street #4
+Cuisine #4
+4.4
+3
+17.7
+3
+Yes
+Yes
+94
+---------------------------
+Resaurant #90
+Karachi, Street #5
+Cuisine #5
+0.6
+1
+4.2
+3
+No
+Yes
+14
+---------------------------
+Resaurant #91
+Karachi, Street #1
+Cuisine #1
+0.6
+3
+2.5
+1
+Yes
+No
+78
+---------------------------
+Resaurant #92
+Karachi, Street #2
+Cuisine #2
+2.9
+3
+11.4
+1
+Yes
+No
+41
+---------------------------
+Resaurant #93
+Karachi, Street #3
+Cuisine #3
+2.6
+3
+11.3
+3
+Yes
+No
+33
+---------------------------
+Resaurant #94
+Karachi, Street #4
+Cuisine #4
+4.6
+3
+9.1
+3
+Yes
+Yes
+86
+---------------------------
+Resaurant #95
+Karachi, Street #5
+Cuisine #5
+4.8
+2
+5.2
+1
+No
+No
+15
+---------------------------
+Resaurant #96
+Karachi, Street #1
+Cuisine #1
+4.1
+3
+0.6
+1
+No
+No
+93
+---------------------------
+Resaurant #97
+Karachi, Street #2
+Cuisine #2
+1.5
+1
+9.3
+2
+No
+No
+9
+---------------------------
+Resaurant #98
+Karachi, Street #3
+Cuisine #3
+4.8
+1
+14.2
+3
+No
+No
+68
+---------------------------
+Resaurant #99
+Karachi, Street #4
+Cuisine #4
+3
+1
+1.6
+2
+Yes
+No
+78
+---------------------------
+Resaurant #100
+Karachi, Street #5
+Cuisine #5
+3.4
+2
+16
+3
+Yes
+No
+93
+---------------------------
+Resaurant #101
+Karachi, Street #1
+Cuisine #1
+2.1
+2
+9.9
+2
+Yes
+No
+87
+---------------------------
+Resaurant #102
+Karachi, Street #2
+Cuisine #2
+2.1
+1
+6.4
+3
+Yes
+No
+22
+---------------------------
+Resaurant #103
+Karachi, Street #3
+Cuisine #3
+0.7
+2
+16.5
+3
+No
+No
+41
+---------------------------
+Resaurant #104
+Karachi, Street #4
+Cuisine #4
+4.3
+1
+3.3
+3
+No
+Yes
+19
+---------------------------
+Resaurant #105
+Karachi, Street #5
+Cuisine #5
+0.1
+2
+9.9
+3
+No
+No
+23
+---------------------------
+Resaurant #106
+Karachi, Street #1
+Cuisine #1
+4.8
+2
+7.6
+1
+No
+Yes
+14
+---------------------------
+Resaurant #107
+Karachi, Street #2
+Cuisine #2
+4.6
+3
+12
+3
+Yes
+No
+63
+---------------------------
+Resaurant #108
+Karachi, Street #3
+Cuisine #3
+3.6
+3
+10.9
+3
+No
+Yes
+46
+---------------------------
+Resaurant #109
+Karachi, Street #4
+Cuisine #4
+1.9
+2
+15.3
+1
+No
+Yes
+73
+---------------------------
+Resaurant #110
+Karachi, Street #5
+Cuisine #5
+3.8
+1
+12.8
+2
+No
+No
+24
+---------------------------
+Resaurant #111
+Karachi, Street #1
+Cuisine #1
+0.1
+3
+14.8
+3
+No
+Yes
+44
+---------------------------
+Resaurant #112
+Karachi, Street #2
+Cuisine #2
+3.9
+2
+8.2
+1
+No
+No
+50
+---------------------------
+Resaurant #113
+Karachi, Street #3
+Cuisine #3
+3.9
+3
+15.5
+3
+Yes
+No
+59
+---------------------------
+Resaurant #114
+Karachi, Street #4
+Cuisine #4
+3.9
+1
+2.1
+2
+No
+No
+31
+---------------------------
+Resaurant #115
+Karachi, Street #5
+Cuisine #5
+4.9
+1
+18.6
+2
+No
+No
+27
+---------------------------
+Resaurant #116
+Karachi, Street #1
+Cuisine #1
+3.9
+1
+16
+2
+Yes
+Yes
+24
+---------------------------
+Resaurant #117
+Karachi, Street #2
+Cuisine #2
+0.8
+1
+1.2
+2
+No
+Yes
+27
+---------------------------
+Resaurant #118
+Karachi, Street #3
+Cuisine #3
+2.6
+3
+11.6
+1
+No
+Yes
+85
+---------------------------
+Resaurant #119
+Karachi, Street #4
+Cuisine #4
+1.5
+3
+14.9
+3
+No
+Yes
+97
+---------------------------
+Resaurant #120
+Karachi, Street #5
+Cuisine #5
+2.3
+3
+10.6
+3
+No
+No
+5
+---------------------------
+Resaurant #121
+Karachi, Street #1
+Cuisine #1
+2.7
+2
+13.7
+2
+No
+No
+37
+---------------------------
+Resaurant #122
+Karachi, Street #2
+Cuisine #2
+4.2
+1
+3.9
+2
+Yes
+Yes
+37
+---------------------------
+Resaurant #123
+Karachi, Street #3
+Cuisine #3
+3.3
+1
+2.6
+3
+No
+Yes
+42
+---------------------------
+Resaurant #124
+Karachi, Street #4
+Cuisine #4
+1.2
+2
+3.5
+1
+Yes
+Yes
+63
+---------------------------
+Resaurant #125
+Karachi, Street #5
+Cuisine #5
+4.4
+3
+3.4
+1
+Yes
+Yes
+63
+---------------------------
+Resaurant #126
+Karachi, Street #1
+Cuisine #1
+0.5
+3
+12.5
+2
+No
+Yes
+49
+---------------------------
+Resaurant #127
+Karachi, Street #2
+Cuisine #2
+1.8
+2
+11.9
+2
+Yes
+Yes
+81
+---------------------------
+Resaurant #128
+Karachi, Street #3
+Cuisine #3
+0.9
+3
+7.7
+3
+No
+Yes
+4
+---------------------------
+Resaurant #129
+Karachi, Street #4
+Cuisine #4
+4.4
+2
+8.3
+3
+No
+No
+49
+---------------------------
+Resaurant #130
+Karachi, Street #5
+Cuisine #5
+0.4
+1
+17
+3
+Yes
+No
+32
+---------------------------
+Resaurant #131
+Karachi, Street #1
+Cuisine #1
+2.9
+1
+14.6
+1
+No
+No
+4
+---------------------------
+Resaurant #132
+Karachi, Street #2
+Cuisine #2
+3.2
+3
+19
+3
+No
+No
+99
+---------------------------
+Resaurant #133
+Karachi, Street #3
+Cuisine #3
+2.3
+3
+10.9
+2
+Yes
+No
+35
+---------------------------
+Resaurant #134
+Karachi, Street #4
+Cuisine #4
+1.2
+2
+7
+3
+No
+No
+38
+---------------------------
+Resaurant #135
+Karachi, Street #5
+Cuisine #5
+0.9
+1
+15.6
+1
+Yes
+No
+16
+---------------------------
+Resaurant #136
+Karachi, Street #1
+Cuisine #1
+1.6
+1
+15.5
+1
+Yes
+Yes
+83
+---------------------------
+Resaurant #137
+Karachi, Street #2
+Cuisine #2
+3.6
+2
+15.2
+2
+Yes
+Yes
+16
+---------------------------
+Resaurant #138
+Karachi, Street #3
+Cuisine #3
+4.2
+3
+18.9
+2
+Yes
+Yes
+74
+---------------------------
+Resaurant #139
+Karachi, Street #4
+Cuisine #4
+2.8
+2
+14.2
+1
+No
+No
+9
+---------------------------
+Resaurant #140
+Karachi, Street #5
+Cuisine #5
+4.1
+1
+0.1
+2
+Yes
+Yes
+79
+---------------------------
+Resaurant #141
+Karachi, Street #1
+Cuisine #1
+2.2
+3
+15.4
+2
+No
+No
+68
+---------------------------
+Resaurant #142
+Karachi, Street #2
+Cuisine #2
+4.6
+3
+19.9
+3
+Yes
+No
+51
+---------------------------
+Resaurant #143
+Karachi, Street #3
+Cuisine #3
+1
+1
+6.8
+2
+Yes
+Yes
+50
+---------------------------
+Resaurant #144
+Karachi, Street #4
+Cuisine #4
+2.9
+2
+1.7
+1
+No
+No
+27
+---------------------------
+Resaurant #145
+Karachi, Street #5
+Cuisine #5
+1.7
+2
+14.1
+1
+No
+No
+65
+---------------------------
+Resaurant #146
+Karachi, Street #1
+Cuisine #1
+3.7
+2
+1.6
+1
+No
+Yes
+10
+---------------------------
+Resaurant #147
+Karachi, Street #2
+Cuisine #2
+0.3
+1
+2.4
+3
+No
+No
+63
+---------------------------
+Resaurant #148
+Karachi, Street #3
+Cuisine #3
+3.2
+2
+10.8
+1
+Yes
+Yes
+8
+---------------------------
+Resaurant #149
+Karachi, Street #4
+Cuisine #4
+3.2
+2
+8.5
+2
+Yes
+Yes
+10
+---------------------------
+Resaurant #150
+Karachi, Street #5
+Cuisine #5
+0.7
+3
+14.6
+3
+Yes
+Yes
+55
+---------------------------

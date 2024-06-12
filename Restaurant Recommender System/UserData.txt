@@ -1,0 +1,285 @@
+
+USER INFO : 
+____________________
+Name    : Sabih
+Age     : 20
+Address : Gulshan
+Cuisine : BBQ
+Preferences Selected : 0
+No Preferences Selected By User 
+--------------------------------------
+
+USER INFO : 
+____________________
+Name    : Sabih Uddin Meraj
+Age     : 21
+Address : Street #1 Gulshan ,Karachi
+Cuisine : BBQ
+Preferences Selected : 2
+Vegan ? : Yes
+DriveThru Option ? : No
+Ambiance Option? : No--------------------------------------
+
+USER INFO : 
+____________________
+Name    : Aisha Saleem
+Age     : 19
+Address : Street #1 Gulshan ,Karachi
+Cuisine : Italian
+Preferences Selected : 3
+Vegan ? : No
+DriveThru Option ? : No
+Ambiance Option? : No--------------------------------------
+
+USER INFO : 
+____________________
+Name    : Minhaj
+Age     : 25
+Address : Street #1 Gulshan ,Karachi
+Cuisine : Chinese
+Preferences Selected : 3
+Vegan ? : No
+DriveThru Option ? : No
+Ambiance Option? : No--------------------------------------
+
+USER INFO : 
+____________________
+Name    : moiz
+Age     : 18
+Address : Street #1 Gulshan ,Karachi
+Cuisine : ola
+Preferences Selected : 2
+Vegan ? : No
+DriveThru Option ? : Yes
+Ambiance Option? : No--------------------------------------
+
+USER INFO : 
+____________________
+Name    : Alian
+Age     : 90
+Address : Street #1 Gulshan ,Karachi
+Cuisine : kol
+Preferences Selected : 1
+Vegan ? : No
+DriveThru Option ? : No
+Ambiance Option? : Yes||| Ambiance level : 3--------------------------------------
+
+USER INFO : 
+____________________
+Name    : sar
+Age     : 29
+Address : Street #1 Gulshan ,Karachi
+Cuisine : l
+Preferences Selected : 1
+Vegan ? : No
+DriveThru Option ? : No
+Ambiance Option? : Yes||| Ambiance level : 1--------------------------------------
+
+USER INFO : 
+____________________
+Name    : nadeem
+Age     : 90
+Address : Street #1 Gulshan ,Karachi
+Cuisine : k
+Preferences Selected : 1
+Vegan ? : No
+DriveThru Option ? : No
+Ambiance Option? : Yes||| Ambiance level : 2--------------------------------------
+
+USER INFO : 
+____________________
+Name    : korn
+Age     : 23
+Address : Street #1 Gulshan ,Karachi
+Cuisine : lop
+Preferences Selected : 2
+Vegan ? : Yes
+DriveThru Option ? : Yes
+Ambiance Option? : No--------------------------------------
+
+USER INFO : 
+____________________
+Name    : shyadd
+Age     : 20
+Address : Street #1 Gulshan ,Karachi
+Cuisine : ki
+Preferences Selected : 1
+Vegan ? : No
+DriveThru Option ? : No
+Ambiance Option? : Yes||| Ambiance level : 1--------------------------------------
+
+USER INFO : 
+____________________
+Name    : klm
+Age     : 20
+Address : Street #1 Gulshan ,Karachi
+Cuisine : cki
+Preferences Selected : 1
+Vegan ? : No
+DriveThru Option ? : No
+Ambiance Option? : Yes||| Ambiance level : 3--------------------------------------
+
+USER INFO : 
+____________________
+Name    : Umair
+Age     : 29
+Address : Street #1 Gulshan ,Karachi
+Cuisine : kl
+Preferences Selected : 1
+Vegan ? : No
+DriveThru Option ? : No
+Ambiance Option? : Yes||| Ambiance level : 3--------------------------------------
+
+USER INFO : 
+____________________
+Name    : umair
+Age     : 20
+Address : Street #1 Gulshan ,Karachi
+Cuisine : chinese
+Preferences Selected : 1
+Vegan ? : No
+DriveThru Option ? : No
+Ambiance Option? : Yes||| Ambiance level : 1--------------------------------------
+
+USER INFO : 
+____________________
+Name    : umer
+Age     : 21
+Address : Street #1 Gulshan ,Karachi
+Cuisine : chinese
+Preferences Selected : 1
+Vegan ? : No
+DriveThru Option ? : No
+Ambiance Option? : Yes||| Ambiance level : 3--------------------------------------
+
+USER INFO : 
+____________________
+Name    : fatima
+Age     : 20
+Address : Street #1 Gulshan ,Karachi
+Cuisine : chinese
+Preferences Selected : 4
+Vegan ? : Yes
+DriveThru Option ? : Yes
+Ambiance Option? : Yes||| Ambiance level : 2--------------------------------------
+
+USER INFO : 
+____________________
+Name    : hadi
+Age     : 20
+Address : Street #1 Gulshan ,Karachi
+Cuisine : l
+Preferences Selected : 3
+Vegan ? : Yes
+DriveThru Option ? : Yes
+Ambiance Option? : Yes||| Ambiance level : 3--------------------------------------
+
+USER INFO : 
+____________________
+Name    : haadi
+Age     : 20
+Address : Street #1 Gulshan ,Karachi
+Cuisine : chinese
+Preferences Selected : 3
+Vegan ? : Yes
+DriveThru Option ? : Yes
+Ambiance Option? : Yes||| Ambiance level : 2--------------------------------------
+
+USER INFO : 
+____________________
+Name    : ahmed
+Age     : 29
+Address : Street #1 Gulshan ,Karachi
+Cuisine : paki
+Preferences Selected : 1
+Vegan ? : No
+DriveThru Option ? : No
+Ambiance Option? : No--------------------------------------
+
+USER INFO : 
+____________________
+Name    : saarim
+Age     : 29
+Address : Street #1 Gulshan ,Karachi
+Cuisine : chinese
+Preferences Selected : 1
+Vegan ? : No
+DriveThru Option ? : No
+Ambiance Option? : No--------------------------------------
+
+USER INFO : 
+____________________
+Name    : sabih
+Age     : 29
+Address : Street #1 Gulshan ,Karachi
+Cuisine : kil
+Preferences Selected : 1
+Vegan ? : No
+DriveThru Option ? : No
+Ambiance Option? : No--------------------------------------
+
+USER INFO : 
+____________________
+Name    : Fatima
+Age     : 21
+Address : Street #1 Gulshan ,Karachi
+Cuisine : prok
+Preferences Selected : 4
+Vegan ? : No
+DriveThru Option ? : No
+Ambiance Option? : Yes||| Ambiance level : 2--------------------------------------
+
+USER INFO : 
+____________________
+Name    : aalia
+Age     : 45
+Address : Street #1 Gulshan ,Karachi
+Cuisine : ki
+Preferences Selected : 3
+Vegan ? : No
+DriveThru Option ? : Yes
+Ambiance Option? : Yes||| Ambiance level : 3--------------------------------------
+
+USER INFO : 
+____________________
+Name    : simone
+Age     : 98
+Address : Street #1 Gulshan ,Karachi
+Cuisine : indian
+Preferences Selected : 4
+Vegan ? : Yes
+DriveThru Option ? : Yes
+Ambiance Option? : Yes||| Ambiance level : 3--------------------------------------
+
+USER INFO : 
+____________________
+Name    : Goher
+Age     : 23
+Address : Street #1 Gulshan ,Karachi
+Cuisine : Oriental
+Preferences Selected : 2
+Vegan ? : No
+DriveThru Option ? : Yes
+Ambiance Option? : No--------------------------------------
+
+USER INFO : 
+____________________
+Name    : Shamas
+Age     : 98
+Address : Street #1 Gulshan ,Karachi
+Cuisine : Pakistani
+Preferences Selected : 6
+Vegan ? : Yes
+DriveThru Option ? : No
+Ambiance Option? : Yes||| Ambiance level : 2--------------------------------------
+
+USER INFO : 
+____________________
+Name    : 2
+Age     : 19
+Address : Street #1 Gulshan ,Karachi
+Cuisine : chinese
+Preferences Selected : 3
+Vegan ? : Yes
+DriveThru Option ? : Yes
+Ambiance Option? : No--------------------------------------
